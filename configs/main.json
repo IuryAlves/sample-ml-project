@@ -1,0 +1,19 @@
+{
+    "shape": [384, 384, 3],
+    "scale": 255.0,
+    "labels": [
+    "ParkingBlockingEntrance",
+    "ParkingBlockingPavement",
+    "ParkingBlockingPedestrianCrossing",
+    "ParkingBlockingTraffic",
+    "ParkingInBikeRack",
+    "ParkingInPaintedBay",
+    "ParkingInScooterRack",
+    "ParkingParallelToWall",
+    "PhotoNoVehicle",
+    "PhotoNotWholeVehicle"
+    ],
+    "threshold": 0.5,
+    "model_version": "parking-photo-model",
+    "model_timestamp": "2023-08-24"
+}
